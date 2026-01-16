@@ -70,7 +70,7 @@ Crop-based classification with context padding (10-15%).
 ## 📷 Demo Application
 *Includes a prototype GUI for clinical workflow simulation.*
 
-![GUI Screenshot](path/to/your/screenshot.png)
+![GUI Screenshot](interface.png)
 *(Replace with Figure A.3 from the thesis showing the bounding box overlay)*
 
 ## 📄 Reference
